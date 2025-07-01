@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/fabricio/NetBeansProjects/Practica4/src/practica4/Practica4.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/Practica4/src/controller/data_struct/list/LinkedList.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/Practica4/src/controller/data_struct/list/Node.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/Practica4/src/controller/data_struct/stack/Stack.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/Practica4/src/controller/data_struct/stack/StackImplementation.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/Practica4/src/controller/data_struct/queue/Queue.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/Practica4/src/controller/data_struct/queue/QueueImplementation.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/Practica4/src/controller/data_struct/graphs/Adjacency.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/Practica4/src/controller/data_struct/graphs/Graph.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/Practica4/src/controller/data_struct/graphs/DirectedGraph.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/Practica4/src/controller/data_struct/graphs/UndirectedGraph.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/Practica4/src/controller/data_struct/graphs/DirectLabelGraph.java</file>
+        </group>
+    </open-files>
+</project-private>
